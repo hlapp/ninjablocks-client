@@ -1,6 +1,6 @@
 [submodule "drivers/ninja-philips-hue"]
 	path = drivers/ninja-philips-hue
-	url = https://github.com/thatguydan/ninja-hue.git
+	url = https://github.com/hlapp/ninja-hue.git
 [submodule "drivers/ninja-ipcam"]
 	path = drivers/ninja-ipcam
 	url = https://github.com/ninjablocks/ninja-ipcam.git
@@ -15,4 +15,5 @@
 	url = https://github.com/nexxy/ninja-usbcam.git
 [submodule "drivers/ninja-arduino"]
 	path = drivers/ninja-arduino
-	url = https://github.com/ninjablocks/ninja-arduino.git
+	url = https://github.com/hlapp/ninja-arduino.git
+	branch = fix-serialport-dep
